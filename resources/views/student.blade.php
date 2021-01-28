@@ -55,7 +55,7 @@
                                 </div>
                                 
                                 <div class="form-group">
-                                  <label >Second </label>
+                                  <label >Second Name</label>
                                   <input name="secondName" type="text" class="form-control" placeholder="Enter second Name">
                                 </div>
 
